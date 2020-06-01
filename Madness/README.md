@@ -4,6 +4,8 @@ Will you be consumed by Madness?
 
 Note from creator: Please note this challenge does not require SSH brute forcing.
 
+Room URL: https://tryhackme.com/room/madness
+
 ---
 
 Only two open ports.

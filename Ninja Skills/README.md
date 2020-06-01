@@ -2,6 +2,8 @@
 
 Practise your Linux skills and complete the challenges.
 
+Room URL: https://tryhackme.com/room/ninjaskills
+
 ---
 
 Answer the questions about the following files:

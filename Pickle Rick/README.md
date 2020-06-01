@@ -2,6 +2,8 @@
 
 A Rick and Morty CTF. Help turn Rick back into a human!
 
+Room URL: https://tryhackme.com/room/picklerick
+
 ---
 
 # Task 1

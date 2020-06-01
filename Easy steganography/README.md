@@ -2,6 +2,8 @@
 
 An easy steganography challenge. No hint, just solve it.
 
+Room URL: https://tryhackme.com/room/easysteganography
+
 ---
 
 # Task 1

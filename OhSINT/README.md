@@ -2,6 +2,8 @@
 
 Are you able to use open source intelligence to solve this challenge?
 
+Room URL: https://tryhackme.com/room/ohsint
+
 ---
 
 # Task 1

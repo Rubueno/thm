@@ -2,6 +2,8 @@
 
 STEGOsaurus? More like STEGOception! ;)
 
+Room URL: https://tryhackme.com/room/stegosaurus
+
 ---
 
 This one actually recommends using `steghide` and `stegcracker`. Let's use those

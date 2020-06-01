@@ -2,6 +2,8 @@
 
 A beginner level LFI challenge
 
+Room URL: https://tryhackme.com/room/inclusion
+
 ---
 
 # Task 1
